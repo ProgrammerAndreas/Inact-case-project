@@ -1,4 +1,8 @@
-# Incat Case Project
+# Inact Case Project
+
+## Requirements
+- Node.js 20.19+ or 22.12+
+- npm
 
 ## 🚀 Getting Started
 
